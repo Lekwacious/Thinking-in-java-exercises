@@ -1,13 +1,13 @@
 package com.lekwacious.chapterFour.exercises;
 
-public class ExerciseFiveDog {
+public class ExeciseSixDog {
     void bark() {
         System.out.println("hahahaha");
     }
-    void bark(char c) {
+    void bark(char c, int z) {
         System.out.println("meim");
     }
-    void bark(byte b) {
+    void bark(byte b, char c ) {
         System.out.println("barkbark");
     }
     void bark(short s) {
@@ -26,7 +26,4 @@ public class ExerciseFiveDog {
         System.out.println("gigigigig");
     }
 
-    public void bark(int i, char c) {
-        System.out.println("fofofof");
-    }
 }
