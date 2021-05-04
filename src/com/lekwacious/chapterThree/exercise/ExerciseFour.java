@@ -12,9 +12,10 @@ public class ExerciseFour {
                     isPrime = false;
                     break;
                 }
-                if (isPrime){
-                    System.out.println(i + "are primenumbers");
-                }
+
+            }
+            if (isPrime){
+                System.out.println(i + "is prime number");
             }
 
 
