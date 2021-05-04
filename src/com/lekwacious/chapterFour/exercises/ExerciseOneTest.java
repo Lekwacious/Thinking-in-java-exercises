@@ -1,8 +1,8 @@
 package com.lekwacious.chapterFour.exercises;
 
-public class ExerciseFourTest {
+public class ExerciseOneTest {
     public static void main(String[] args) {
-        ExerciseFour obj = new ExerciseFour();
+        ExerciseOne obj = new ExerciseOne();
         System.out.println(obj.greeting);
     }
 }

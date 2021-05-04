@@ -1,5 +1,5 @@
 package com.lekwacious.chapterFour.exercises;
 
-public class ExerciseFour {
+public class ExerciseOne {
     String greeting;
 }
