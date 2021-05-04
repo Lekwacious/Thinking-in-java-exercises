@@ -5,10 +5,9 @@ public class ExerciseFour {
         for(int i = 0; i < 100; i++ )
         {
             boolean isPrime =true;
-            int factors = 0;
             for(int j = 2; j < i ; j++ )
             {
-                if((i % j) == 0)
+                if(i % j == 0)
                 {
                     isPrime = false;
                     break;
