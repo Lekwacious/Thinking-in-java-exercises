@@ -15,7 +15,7 @@ public class ExerciseFour {
 
             }
             if (isPrime){
-                System.out.println(i + "is prime number");
+                System.out.println(i + " " + "is prime number");
             }
 
 
